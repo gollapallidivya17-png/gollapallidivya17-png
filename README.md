@@ -48,3 +48,4 @@ A healthcare claims app I'm building to practise end-to-end testing in my own do
 ## 📫 Connect With Me
 
 - 📧 **Email:** gollapalli.divya17@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/gollapalli-divya](https://www.linkedin.com/in/gollapalli-divya/)
