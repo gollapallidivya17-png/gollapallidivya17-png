@@ -30,7 +30,8 @@ I'm a Software Test Engineer with 3 years of experience testing healthcare and H
 ### 🏦 [FinSecure – Playwright Automation Framework](https://github.com/gollapallidivya17-png/finsecure-playwright)
 A Playwright + TypeScript test framework for the ParaBank demo banking app, built step by step as I learn automation.
 - **Done:** Login page object and 6 passing login tests, with invalid-login cases driven from JSON test data
-- **Next:** login fixture, fund transfer and loan tests, API tests for transfers, CI
+- **CI:** tests run automatically on every push with GitHub Actions
+- **Next:** login fixture, fund transfer and loan tests, API tests for transfers
 
 ### 🏥 [AI Healthcare Claim System](https://github.com/gollapallidivya17-png/AI-healthcare-claim-system)
 A healthcare claims app I'm building to practise end-to-end testing in my own domain.
