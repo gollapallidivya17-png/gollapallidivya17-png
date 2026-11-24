@@ -1,59 +1,53 @@
-Hi 👋 I'm Divya Gollapalli
-Software Test Engineer
-🏥 Healthcare Domain Experience
+# Hi 👋 I'm Divya Gollapalli
 
-🧪 API Testing | Functional Testing | Regression Testing
+**Software Test Engineer · Healthcare Domain · Moving into Test Automation**
 
-💾 SQL | MySQL
+I'm a Software Test Engineer with 3 years of experience testing healthcare and HIPAA-compliant applications. My background is in manual, API and database testing, and I'm now building test automation with **Playwright + TypeScript**.
 
-🤖 Learning Playwright Automation
+---
 
-About Me
-Software Test Engineer with 3 years of experience
-Experienced in Healthcare and HIPAA-compliant applications
-Skilled in Postman, SQL, Jira and Manual Testing
-Currently building AI Healthcare Claims projects
-Working toward becoming an Automation Test Engineer
-Skills
-Testing
-✅ Functional Testing
+## 🧪 What I Do
 
-✅ Regression Testing
+- **Functional, regression, integration & smoke testing** for healthcare applications
+- **API testing** with Postman: request validation, status codes, response checks
+- **Database validation** with SQL / MySQL: checking data against backend records
+- **Defect tracking & test management** in Jira
+- **Test automation** with Playwright: Page Object Model, fixtures, data-driven tests
 
-✅ Integration Testing
+## 🛠️ Tech & Tools
 
-✅ Smoke Testing
+| Area | Tools |
+|---|---|
+| Testing | Functional · Regression · Integration · Smoke · API |
+| Automation | Playwright · TypeScript · Python |
+| API | Postman |
+| Database | SQL · MySQL |
+| Tracking & Version Control | Jira · Git · GitHub |
 
-✅ API Testing
+---
 
-Tools
-✅ Postman
+## 📌 Featured Projects
 
-✅ Jira
+### 🏦 [FinSecure – Playwright Automation Framework](https://github.com/gollapallidivya17-png/finsecure-playwright)
+An end-to-end test automation framework for a banking app, built with Playwright and TypeScript.
+- **Page Object Model**: separate page classes for Login, Dashboard and Fund Transfer
+- **Custom fixtures** for reusable authentication
+- **Data-driven tests** using CSV and JSON test data
+- **UI + API tests** covering login, fund transfers and loans
 
-✅ Git
+### 🏥 [AI Healthcare Claim System](https://github.com/gollapallidivya17-png/AI-healthcare-claim-system)
+A healthcare claims processing app used to practise end-to-end testing in my domain.
+- **Stack:** FastAPI · React · MySQL
+- **Testing focus:** claims processing flows, API testing, SQL data validation
 
-✅ GitHub
+---
 
-Database
-✅ SQL
+## 🎯 Currently
 
-✅ MySQL
+- 🔭 Growing my Playwright framework with more test coverage and CI
+- 🌱 Learning advanced automation patterns and API automation
+- 🎯 Goal: **Automation Test Engineer**
 
-Automation
-✅ Playwright
+## 📫 Connect With Me
 
-✅ Python
-
-Featured Project
-AI Healthcare Claim System
-FastAPI
-React
-MySQL
-Claims Processing
-API Testing
-SQL Validation
-Connect With Me
-📧 gollapalli.divya17@gmail.com
-
-💼 LinkedIn: Add Your LinkedIn URL
+- 📧 **Email:** gollapalli.divya17@gmail.com
